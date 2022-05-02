@@ -1,5 +1,4 @@
 # TravelAgency
-Mount Everest - a Viennese travel agency, in which users can view, add, update, delete offers.
 
 The following instructions assume you have XAMPP and Symfony installed. To view this project please clone this repo into the htdocs folder, import the database from the sql folder into MySQL. Open a command line interface within the project and run symfony server:start. You should be able to access the site at: localhost/TravelAgency-master/index.php
 
